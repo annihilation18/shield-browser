@@ -1,4 +1,8 @@
 {
+  "guides": [
+    { "type": "cards", "url": "https://dlive.sx/24-7-channels.php" },
+    { "type": "json", "url": "https://sportsbite.org/channels" }
+  ],
   "sites": [
     { "name": "CrackStreams", "url": "https://mycrackstreams.org/", "enabled": true, "category": "Live Sports" },
     { "name": "StreamCode", "url": "https://streamcode.my/", "enabled": true, "category": "Live Sports" },
@@ -50,6 +54,7 @@
     { "name": "Movy", "url": "https://www.movy.sx/", "enabled": true, "category": "Movies & TV", "movie": "https://www.movy.sx/movie/{id}?play=true" },
     { "name": "Cinejoy", "url": "https://cinejoy.pk/", "enabled": true, "category": "Movies & TV" },
     { "name": "PopcornMovies", "url": "https://popcornmovies.st/", "enabled": true, "category": "Movies & TV" },
+    { "name": "ArrowTV", "url": "https://arrowtv.net/", "enabled": true, "category": "Movies & TV", "movie": "https://arrowtv.net/watch/movie/{id}", "tv": "https://arrowtv.net/watch/tv/{id}?season={s}&episode={e}" },
     { "name": "7Movies", "url": "https://7movies.ac/", "enabled": true, "category": "Movies & TV", "movie": "https://7movies.ac/movie/{id}/watch", "tv": "https://7movies.ac/tv/{id}/watch?season={s}&episode={e}" },
     { "name": "Atlantic", "url": "https://atlantic.bz/", "enabled": true, "category": "Movies & TV" },
     { "name": "ShuttleTV", "url": "https://shuttletv.su/", "enabled": true, "category": "Movies & TV" },
@@ -60,7 +65,6 @@
     { "name": "MeowTV", "url": "https://meowtv.ru/", "enabled": true, "category": "Movies & TV" },
     { "name": "SweetFox", "url": "https://sweetfox.app/", "enabled": true, "category": "Movies & TV" },
     { "name": "CineLite", "url": "https://cinelite.xyz/", "enabled": true, "category": "Movies & TV" },
-    { "name": "ArrowTV", "url": "https://arrowtv.net/", "enabled": true, "category": "Movies & TV", "movie": "https://arrowtv.net/watch/movie/{id}", "tv": "https://arrowtv.net/watch/tv/{id}?season={s}&episode={e}" },
     { "name": "Ghostflix", "url": "https://ghostflix.st/", "enabled": true, "category": "Movies & TV" },
     { "name": "Chillflix", "url": "https://chillflix.lol/", "enabled": true, "category": "Movies & TV", "movie": "https://chillflix.lol/movie/{id}?play=true" },
     { "name": "Spacedom", "url": "https://spacedom.live/", "enabled": true, "category": "Movies & TV" },
