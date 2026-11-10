@@ -4,6 +4,7 @@
     { "type": "json", "url": "https://sportsbite.org/channels" }
   ],
   "sites": [
+    { "name" : "Crackstreams1", "url": "https://crackstreams.mx/", "enabled": true, "category": "Live Sports" },
     { "name": "CrackStreams", "url": "https://mycrackstreams.org/", "enabled": true, "category": "Live Sports" },
     { "name": "StreamCode", "url": "https://streamcode.my/", "enabled": true, "category": "Live Sports" },
     { "name": "StreamEast", "url": "https://v2.streameast.ga/", "enabled": true, "category": "Live Sports" },
