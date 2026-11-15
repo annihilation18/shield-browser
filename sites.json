@@ -398,6 +398,11 @@
     { "name": "ultimedia", "url": "https://www.ultimedia.com/", "enabled": true, "category": "Movies & TV" },
     { "name": "odysee", "url": "https://odysee.com/", "enabled": true, "category": "Movies & TV" },
     { "name": "Rumble", "url": "https://rumble.com/", "enabled": true, "category": "Movies & TV" },
-    { "name": "DeafVideo", "url": "https://www.deafvideo.tv/", "enabled": true, "category": "Movies & TV" }
+    { "name": "DeafVideo", "url": "https://www.deafvideo.tv/", "enabled": true, "category": "Movies & TV" },
+    { "name": "PelisPedia", "url": "https://pelispedia.is/", "enabled": true, "category": "Movies & TV", "lang": "es", "movieFind": "https://pelispedia.is/?s={q}#find=/pelicula/", "tvFind": "https://pelispedia.is/?s={q}#find=/serie/&ep=temporada-{s}-capitulo-{e}" },
+    { "name": "Cinecalidad", "url": "https://www.cinecalidad.am/", "enabled": true, "category": "Movies & TV", "lang": "es", "movieFind": "https://www.cinecalidad.am/?s={q}#find=/ver-pelicula/", "tvFind": "https://www.cinecalidad.am/?s={q}#find=/ver-serie/&ep=-{s}x{e}" },
+    { "name": "PelisForte", "url": "https://www2.pelisforte.se/", "enabled": true, "category": "Movies & TV", "lang": "es", "movieFind": "https://www2.pelisforte.se/?s={q}#find=/pelicula/" },
+    { "name": "TubePelis", "url": "https://www.tubepelis.com/", "enabled": true, "category": "Movies & TV", "lang": "es", "movieFind": "https://www.tubepelis.com/buscar/{slug}/#find=/pelicula/" },
+    { "name": "Latanime", "url": "https://latanime.org/", "enabled": true, "category": "Anime", "lang": "es", "tvFind": "https://latanime.org/buscar?q={q}#find=/anime/&ep=episodio-{a}" }
   ]
 }
