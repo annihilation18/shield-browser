@@ -1,5 +1,6 @@
 {
   "titleAudio": { "movie/9323": { "ja": "Movy" } },
+  "titleSubs": { "movie/9323": { "en": "https://raw.githubusercontent.com/annihilation18/shield-browser/main/subs/movie-9323-en.srt" } },
   "guides": [
     { "url": "https://thedaddy.pk/24-7-channels.php", "mirrors": ["https://dlhd.pk/24-7-channels.php", "https://dlstreams.st/24-7-channels.php", "https://dlhd.st/24-7-channels.php", "https://dlive.sx/24-7-channels.php"], "type": "cards" },
     { "url": "https://sportsbite.org/channels", "type": "json" }
